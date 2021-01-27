@@ -26,6 +26,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mattmorden.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mattmorden
 github_username:  mattmorden
+linkedin_username: mattmorden
+
+# Fields that minima uses, but are not defaulted with the jekyll new command.
+# Author is the default for posts, the Atom feed, and used in the footer.
+author: Matt Morden
+
+# New fields not provided with the jekyll-new command with minima theme.
+title-logo: /images/title-logo.png
 
 # Build settings
 # Removed minima theme as we are now using a regular theme
