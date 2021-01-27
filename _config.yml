@@ -28,7 +28,8 @@ twitter_username: mattmorden
 github_username:  mattmorden
 
 # Build settings
-theme: minima
+# Removed minima theme as we are now using a regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
